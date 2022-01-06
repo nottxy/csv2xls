@@ -2,6 +2,12 @@
 name = "csv2xls"
 version = "0.1.0"
 edition = "2021"
+authors = ["Bob <nottxy@gmail.com>"]
+license = "MIT"
+description = "Convert & merge csv files to excel file"
+documentation = "https://docs.rs/csv2xls"
+repository = "https://github.com/nottxy/csv2xls"
+keywords = ["csv", 'excel']
 
 [dependencies]
 csv = "1"
